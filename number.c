@@ -1,5 +1,5 @@
 #include <stdio.h>//preprocessor directive to include standard input-output header file
-
+// creating a program to calculate the cube of a given number
 int main() {
     int n;//variable declaration
     printf("Enter a number: ");
